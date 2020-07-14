@@ -1,0 +1,15 @@
+.theList li {
+    color: white;
+    background-color: #007bff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: left;
+    display: block;
+    position: relative;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
